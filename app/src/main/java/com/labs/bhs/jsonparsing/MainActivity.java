@@ -24,7 +24,6 @@ public class MainActivity extends AppCompatActivity
     String mResultData = "";
     boolean []mIsGetData = {false, false, false};
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState)
     {
